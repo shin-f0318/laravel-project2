@@ -9,7 +9,7 @@
     </head>
 
     <body>
-        <h2>結果</h2>
+        <h2>結果表示</h2>
         <p><?php echo $post['number']; ?></p>
         
     </body>

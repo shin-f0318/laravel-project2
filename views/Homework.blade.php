@@ -8,7 +8,7 @@
         <title>課題</title>
     </head>
     <body>
-        <h2>点数(1~100)を入力してください！！</h2>
+        <h2>点数(1~100)を入力してください！</h2>
         <form action="Homework-confirm" method="post">
         @csrf
             <div>
